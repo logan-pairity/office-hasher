@@ -37,7 +37,7 @@ cargo run
 ```
 Verify the server is working with:
 ```bash
-curl  http://127.0.0.1:8000/      
+$ curl http://127.0.0.1:8000/      
 Server is running...
 ```
 
